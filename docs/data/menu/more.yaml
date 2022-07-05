@@ -1,0 +1,14 @@
+---
+more:
+  - name: News
+    ref: "/#"
+    #external: true
+    icon: "gdoc_notification"
+  - name: Releases
+    ref: "/#"
+    #external: true
+    icon: "gdoc_download"
+  - name: "View Source"
+    ref: "https://github.com/MarcMocker/proxcord-docs"
+    external: true
+    icon: "gdoc_github"
